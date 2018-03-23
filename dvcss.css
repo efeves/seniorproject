@@ -1,0 +1,45 @@
+body{
+	margin:0px;
+	width: 100vw;
+	height: 100vh;
+}
+	
+.info-flex{
+	display: flex;
+	flex-wrap: wrap;
+	height: inherit;
+}
+
+.titlebar{
+	height: 15%;
+	width: 100vw;
+	background-color: #3EA702;
+}
+	
+.up35{
+	height: 25%;
+	width: 100vw;
+	background-color: #ff0000;
+}
+	
+.low65{
+	height: 60%;
+	width: 100vw;
+	background-color: #000eff
+}
+	
+.fullweek{
+
+}
+	
+.widgits{
+	
+}
+	
+.important{
+	
+}
+	
+.classmentions{
+	
+}
