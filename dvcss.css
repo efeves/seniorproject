@@ -17,29 +17,81 @@ body{
 }
 	
 .up35{
+	display: flex;
+	flex-wrap: wrap;
 	height: 25%;
 	width: 100vw;
 	background-color: #ff0000;
+	align-items: center;
+	justify-content: center;
+}
+
+.fullweek{
+	display: flex;
+	flex-wrap: wrap;
+	height: 90%;
+	width: 80%;
+	background-color: #e3e4d4;
+}
+	
+.day{
+	width: 14.285%;
+}
+
+.sunday{
+	background-color: #8A2BE2;
+}
+
+.monday{
+	background-color: ;
+}
+
+.tuesday{
+	background-color: #8A2BE2;
+}
+
+.wednesday{
+	background-color: ;
+}
+
+.thursday{
+	background-color: #8A2BE2;
+}
+
+.friday{
+	background-color: ;
+}
+
+.saturday{
+	background-color: #8A2BE2;
 }
 	
 .low65{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
 	height: 60%;
 	width: 100vw;
-	background-color: #000eff
-}
-	
-.fullweek{
-
+	background-color: #000eff;
 }
 	
 .widgits{
-	
+	height: 95%;
+	width: 29%;
+	background-color: #e3e4d4;
 }
 	
 .important{
-	
+	height: 95%;
+	width: 40%;
+	background-color: #ffffff;
+	margin-left: 1%;
+	margin-right: 1%;
 }
 	
 .classmentions{
-	
+	height: 95%;
+	width: 29%;
+	background-color: #e3e4d4;
 }
+
