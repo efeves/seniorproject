@@ -34,38 +34,6 @@ body{
 	background-color: #e3e4d4;
 }
 	
-.day{
-	width: 14.285%;
-}
-
-.sunday{
-	background-color: #8A2BE2;
-}
-
-.monday{
-	background-color: ;
-}
-
-.tuesday{
-	background-color: #8A2BE2;
-}
-
-.wednesday{
-	background-color: ;
-}
-
-.thursday{
-	background-color: #8A2BE2;
-}
-
-.friday{
-	background-color: ;
-}
-
-.saturday{
-	background-color: #8A2BE2;
-}
-	
 .low65{
 	display: flex;
 	flex-wrap: wrap;
